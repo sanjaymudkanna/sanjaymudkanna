@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**sanjaymudkanna/sanjaymudkanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sanjay Mudkanna, an IoT Firmware & Edge Developer passionate about building scalable, secure, and intelligent connected systems.
 
-Here are some ideas to get you started:
+🔭 Currently working on: IoT firmware development, edge computing solutions, and industrial automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: AI transformation trends and modern embedded/IoT architectures
+
+👯 Looking to collaborate on: IoT, embedded systems, cloud-to-edge pipelines, and real-world industry use cases
+
+🤝 Looking for help with: Exploring new opportunities as an IoT Developer
+
+💬 Ask me about: Industrial IoT, embedded firmware, MQTT, Azure IoT, FreeRTOS, and edge deployments
+
+📫 How to reach me: Connect with me on LinkedIn
+
+😄 Mindset: Competing against luck through consistent learning
+
+⚡ Fun fact: I enjoy exploring cosmic healing concepts and still manage to procrastinate sometimes 😄

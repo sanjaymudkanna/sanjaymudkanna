@@ -12,7 +12,7 @@ I’m Sanjay Mudkanna, an IoT Firmware & Edge Developer passionate about buildin
 
 💬 Ask me about: Industrial IoT, embedded firmware, MQTT, Azure IoT, FreeRTOS, and edge deployments
 
-📫 How to reach me: Connect with me on LinkedIn
+📫 How to reach me: Connect with me on LinkedIn:- https://www.linkedin.com/in/sanjay-mudkanna-42706555/ 
 
 😄 Mindset: Competing against luck through consistent learning
 

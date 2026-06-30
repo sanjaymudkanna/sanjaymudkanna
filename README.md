@@ -1,16 +1,16 @@
 Hi there 👋
 
-I’m Sanjay Mudkanna, an IoT Firmware & Edge Developer passionate about building scalable, secure, and intelligent connected systems.
+I’m Sanjay Mudkanna, an IoT Application Engineer, Firmware & Edge Developer passionate about building scalable, secure, and intelligent connected systems.
 
-🔭 Currently working on: IoT firmware development, edge computing solutions, and industrial automation
+🔭 Currently working on: IoT Application Engineer, IoT Sensor data ingestion to GCP pubsub, Bigquerry over on-perm Ignition edge and Mosquitto broker edge computing solutions, and industrial automation
 
 🌱 Currently learning: AI transformation trends and modern embedded/IoT architectures
 
 👯 Looking to collaborate on: IoT, embedded systems, cloud-to-edge pipelines, and real-world industry use cases
 
-🤝 Looking for help with: Exploring new opportunities as an IoT Developer
+🤝 Looking for help with: Exploring new opportunities as an IoT Developer, Senior IoT Engineer, Application Engineer
 
-💬 Ask me about: Industrial IoT, embedded firmware, MQTT, Azure IoT, FreeRTOS, and edge deployments
+💬 Ask me about: Industrial IoT, embedded firmware, MQTT, Azure IoT, GCP IoT/Pubsub, Serverless cloud run, FreeRTOS, and edge deployments
 
 📫 How to reach me: Connect with me on LinkedIn:- https://www.linkedin.com/in/sanjay-mudkanna-42706555/ 
 
